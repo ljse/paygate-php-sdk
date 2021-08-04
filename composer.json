@@ -1,5 +1,5 @@
 {
-    "name": "paynamics/paygate-sdk-php",
+    "name": "paynamics/paygate-sdk-php7",
     "description": "Paynamics Paygate SDK for PHP",
     "license": "MIT",
     "keywords": [
