@@ -35,6 +35,6 @@
         }
     ],
     "require": {
-        "paynamics/paygate-sdk-php": "dev-master"
+        "paynamics/paygate-sdk-php": "master"
     },
 }
