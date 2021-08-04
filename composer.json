@@ -30,7 +30,7 @@
     "minimum-stability": "stable",
     "repositories": [
         {
-            "type": "git",
+            "type": "vcs",
             "url": "https://github.com/ljse/paygate-php-sdk.git"
         }
     ],
