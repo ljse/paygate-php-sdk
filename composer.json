@@ -22,7 +22,7 @@
     },
     "require": {
         "php": "^7.2.5",
-        "paynamics/paygate-sdk-php": "dev-master"
+        "ljse/paygate-sdk-php": "dev-master"
     },
     "require-dev": {
         "phpunit/phpunit": "^8.5",
