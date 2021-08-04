@@ -1,5 +1,5 @@
 {
-    "name": "paynamics/paygate-sdk-php7",
+    "name": "paynamics/paygate-sdk-php",
     "description": "Paynamics Paygate SDK for PHP",
     "license": "MIT",
     "keywords": [
@@ -34,4 +34,7 @@
             "url": "https://github.com/ljse/paygate-php-sdk.git"
         }
     ],
+    "require": {
+        "paynamics/paygate-sdk-php7": "dev-master"
+    },
 }
