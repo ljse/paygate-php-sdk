@@ -17,7 +17,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "CoreProc\\Paynamics\\Paygate\\": "src"
+            "Paynamics\\Paygate\\": "src"
         }
     },
     "require": {
